@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Atom",
+  "enabledCssSnippets": [
+    "embed-adjustement",
+    "clean-embed",
+    "center-table",
+    "center-image"
+  ]
+}
